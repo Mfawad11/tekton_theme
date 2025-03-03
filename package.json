@@ -1,0 +1,15 @@
+{
+  "name": "tekton_theme",
+  "version": "1.0.0",
+  "description": "Tekton-Theme is a custom app for Frappe that enhances the theme switcher functionality by providing additional themes. As of now, it includes one theme called 'Tekton Blue'.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  }
+}

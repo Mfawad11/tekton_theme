@@ -1,0 +1,11 @@
+{
+    "tekton_theme.bundle.css": [
+      "public/scss/tekton-blue.scss",
+      "public/scss/tekton.bundle.scss"
+    ],
+    "tekton_theme.bundle.js": [
+      "public/js/theme-switcher.js",
+      "public/js/tekton.bundle.js"
+    ]
+  }
+  

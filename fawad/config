@@ -1,0 +1,15 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[remote "upstream"]
+	url = https://github.com/vineyrawat/Tekton-Theme.git
+	fetch = +refs/heads/develop:refs/remotes/upstream/develop
+[branch "main"]
+	remote = upstream
+	merge = refs/heads/develop
+	vscode-merge-base = upstream/develop
+[remote "origin"]
+	url = https://github.com/Mfawad11/tekton_theme.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
